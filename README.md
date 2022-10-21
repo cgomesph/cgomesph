@@ -16,8 +16,7 @@
 
 ### Tecnologias:
 
-
- <div style="display: inline_block">
+<div style="display: inline_block">
   <br>
   <img align="center" alt="Joni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joni-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -25,6 +24,13 @@
 
 </div>
 <br>
+
+### Ferramentas:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgomesph&show_icons=true&count_private=true&hide_border=true&title_color=43328A&icon_color=43328A&text_color=43328A&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
